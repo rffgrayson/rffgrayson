@@ -30,4 +30,6 @@ Welcome to my portfolio, where I showcase my projects.
 - Visualization: Power Bi
 
 
-📫 How to reach me: not yet. still not good enough to show my profile
+📫 How to reach me
+
+not yet. still not good enough to show my profile
