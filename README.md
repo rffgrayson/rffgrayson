@@ -15,21 +15,21 @@ Let's embark on this data-driven journey together! 🚀
 - Developing dashboards on Power Bi and Looker Studio.
 - Data analysis and reporting using Google Sheets and Excel.
 
-😄 Pronouns
+### 😄 Pronouns
 
 elle/ele
 
-📚 Projects
+### 📚 Projects
 
 Welcome to my portfolio, where I showcase my projects.
 
-🔭 I’m currently working on
+### 🔭 I’m currently working on
 
 - Language: SQL, Python
 - Database: Google BigQuery, PostgreSQL, MySQL
 - Visualization: Power Bi
 
 
-📫 How to reach me
+### 📫 How to reach me
 
 not yet. still not good enough to show my profile
