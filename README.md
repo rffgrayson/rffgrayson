@@ -6,25 +6,16 @@ Hello, I'm Ariff. Data Analyst wannabe with expertise in data analysis and repor
 - Developing dashboards on Power Bi and Looker Studio.
 - Data analysis and reporting using Google Sheets and Excel.
 
+😄 Pronouns: he/him
+
 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
-🛠️ Tools
-Language: SQL, Python
-Database: Google BigQuery, PostgreSQL, MySQL
-Visualization: Power Bi
+🔭 I’m currently working on
 
-<!--
-**marswanttobeanalyst/marswanttobeanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Language: SQL, Python
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Power Bi
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: not yet. still not good enough to show my profile
