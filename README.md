@@ -18,6 +18,7 @@ Let's embark on this data-driven journey together! 🚀
 😄 Pronouns: he/him
 
 📚 Projects
+
 Welcome to my portfolio, where I showcase my projects.
 
 🔭 I’m currently working on
