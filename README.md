@@ -15,7 +15,9 @@ Let's embark on this data-driven journey together! 🚀
 - Developing dashboards on Power Bi and Looker Studio.
 - Data analysis and reporting using Google Sheets and Excel.
 
-😄 Pronouns: he/him
+😄 Pronouns
+
+elle/ele
 
 📚 Projects
 
