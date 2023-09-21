@@ -17,7 +17,7 @@ Let's embark on this data-driven journey together! 🚀
 
 ### 😄 Pronouns
 
-elle/ele
+he/him
 
 ### 📚 Projects
 
