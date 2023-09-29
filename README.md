@@ -10,10 +10,9 @@ I'm constantly learning and honing my skills in data manipulation, statistical a
 Feel free to explore my projects, delve into the code, and provide any feedback or suggestions. I'm always open to collaboration and eager to connect with fellow data enthusiasts, so don't hesitate to reach out.
 
 Let's embark on this data-driven journey together! 🚀
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Power Bi and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
+- Querying data, generate reports and perform ad-hoc data analysis using SQL.
+- Developing dashboards on Power Bi.
+- Data analysis and reporting using Excel.
 
 ### 😄 Pronouns
 
