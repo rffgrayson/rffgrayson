@@ -24,9 +24,9 @@ Welcome to my portfolio, where I showcase my projects.
 
 ### 🔭 I’m currently working on
 
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Power Bi
+- Language: SQL, Python mainly but occasionally R
+- Database: PostgreSQL mainly but occasionally MySQL and MS SQL Server
+- Visualization: Power Bi mainly but occasionally Tableau
 
 
 ### 📫 How to reach me
