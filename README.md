@@ -20,7 +20,9 @@ Welcome to my portfolio, where I showcase my projects.
 
 
 **Languages**: Python, SQL, MATLAB
+
 **Frameworks & Libraries**: Django, NumPy, Pandas, Scikit-learn, Matplotlib, TensorFlow, Keras
+
 **Visualization**:  PowerBI, Tableau
 
 
