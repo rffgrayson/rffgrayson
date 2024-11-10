@@ -1,5 +1,4 @@
 ### Hi there !
-![d68mm45-e6d9e7cc-84c0-4285-9972-6fe5c9284d4b](https://github.com/user-attachments/assets/825d0517-bb56-49a4-935a-cf1320d10ff7)
+![257427233-9b81fc6f-5945-4e24-8510-d3f5516cd40c](https://github.com/user-attachments/assets/f90f41f0-71a2-4104-8c03-a6bd163822bf)
 
-
-👋 Welcome to my GitHub profile! I'm mars, a literal nobody on a journey to explore and make sense of everything. Oh I like cute things btw. 
+👋 Welcome to my GitHub profile! I'm mars, a literal nobody on a journey to explore and make sense of everything.
