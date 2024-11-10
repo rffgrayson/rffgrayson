@@ -1,4 +1,5 @@
-### Hi there ![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7568496a3165393051344b736f513d3d2d31342e313438386261653533323830616238343432343734303833373432302e676966](https://github.com/marswanttobeanalyst/marswanttobeanalyst/assets/141108687/9b81fc6f-5945-4e24-8510-d3f5516cd40c)
+### Hi there !
+![d68mm45-e6d9e7cc-84c0-4285-9972-6fe5c9284d4b](https://github.com/user-attachments/assets/825d0517-bb56-49a4-935a-cf1320d10ff7)
 
 
-👋 Welcome to my GitHub profile! I'm mars, a literal nobody on a journey to explore and make sense of everything.
+👋 Welcome to my GitHub profile! I'm mars, a literal nobody on a journey to explore and make sense of everything. Oh I like cute things btw. 
