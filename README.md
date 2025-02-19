@@ -6,7 +6,6 @@
 ## 📊 GitHub Stats  
 ![Mars's GitHub stats](https://github-readme-stats.vercel.app/api?username=rffkive&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rffkive&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rffkive&theme=radical)  
 
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rffkive&theme=radical&no-frame=true&margin-w=15)  
