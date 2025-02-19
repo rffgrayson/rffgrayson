@@ -4,10 +4,10 @@
 👋 Welcome to my GitHub profile! I'm mars, a literal nobody on a journey to explore and make sense of everything.
 
 ## 📊 GitHub Stats  
-![Mars's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
+![Mars's GitHub stats](https://github-readme-stats.vercel.app/api?username=rffkive&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rffkive&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rffkive&theme=radical)  
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=15)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rffkive&theme=radical&no-frame=true&margin-w=15)  
 
