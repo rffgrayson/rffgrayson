@@ -6,13 +6,11 @@
 ---
 
 # Hi there, I'm Jin Mincheol! 👋
+A literal nobody on a journey to explore and make sense of everything.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f90f41f0-71a2-4104-8c03-a6bd163822bf" alt="Profile Banner" width="800">
 </div>
-
-## About Me
-A literal nobody on a journey to explore and make sense of everything.
 
 ## 🚀 Current Focus
 - Mastering fundamental first before jumping to ai ml and devops.
