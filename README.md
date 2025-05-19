@@ -8,9 +8,7 @@
 I'm a curious explorer on a journey through the tech landscape, building my skills one project at a time. My approach is simple: learn by doing, break things to understand them, and keep moving forward. Currently balancing professional work with personal growth through self-directed learning.
 
 ## 🚀 Current Focus
-- Automating everyday tasks with **Python**
-- Building a solid foundation in **Web Development**
-- Exploring **Data Analysis** tools and techniques
+- Mastering fundamental first before jumping to ai ml and devops.
 
 ## 🧰 Tech Stack
 ```
@@ -45,10 +43,10 @@ I'm a curious explorer on a journey through the tech landscape, building my skil
 
 ## 📫 Connect With Me
 <div align="left">
-  <a href="https://linkedin.com/in/YOURLINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ariff-azman-346752279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUREMAIL@example.com">
+  <a href="Ariffazman485@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
