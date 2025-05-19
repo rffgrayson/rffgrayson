@@ -41,9 +41,9 @@ A literal nobody on a journey to explore and make sense of everything.
 - 📊 [**Kaggle**](https://www.kaggle.com/rffkive) - Data science projects
 
 ## 📝 My Writing
-I occasionally share my thoughts and learning experiences on Medium:
 
 - [**Reflecting on My Data Science Learning Journey**](https://rffkive.medium.com/reflecting-on-my-data-science-learning-journey-an-archive-of-growth-and-discovery-d0622235b7d4)
+  
 [**View all my articles →**](https://medium.com/@rffkive)
 
 ## 🏆 Certifications
