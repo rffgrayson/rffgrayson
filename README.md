@@ -1,3 +1,10 @@
+
+<div align="center">
+  <i>"The only way to learn to code is to write a lot of code" - Me, probably</i>
+</div>
+
+---
+
 # Hi there, I'm Jin Mincheol! 👋
 
 <div align="center">
@@ -35,6 +42,12 @@ A literal nobody on a journey to explore and make sense of everything.
 - 💻 [**Frontend Mentor**](https://www.frontendmentor.io/profile/rffkive) - Web development challenges
 - 📊 [**Kaggle**](https://www.kaggle.com/rffkive) - Data science projects
 
+## 📝 My Writing
+I occasionally share my thoughts and learning experiences on Medium:
+
+- [**Reflecting on My Data Science Learning Journey**](https://rffkive.medium.com/reflecting-on-my-data-science-learning-journey-an-archive-of-growth-and-discovery-d0622235b7d4) - An archive of growth and discovery
+- [**View all my articles →**](https://medium.com/@rffkive)
+
 ## 🏆 Certifications
 - ☁️ **AWS Cloud Practitioner**
 
@@ -42,17 +55,16 @@ A literal nobody on a journey to explore and make sense of everything.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rffkive&theme=tokyonight)
 
 ## 📫 Connect With Me
+📫 Connect With Me
 <div align="left">
   <a href="https://www.linkedin.com/in/ariff-azman-346752279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="Ariffazman485@gmail.com">
+  <a href="https://twitter.com/rffkive" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:Ariffazman485@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
 ---
-
-<div align="center">
-  <i>"The only way to learn to code is to write a lot of code" - Me, probably</i>
-</div>
