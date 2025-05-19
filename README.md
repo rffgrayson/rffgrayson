@@ -5,7 +5,7 @@
 </div>
 
 ## About Me
-I'm a curious explorer on a journey through the tech landscape, building my skills one project at a time. My approach is simple: learn by doing, break things to understand them, and keep moving forward. Currently balancing professional work with personal growth through self-directed learning.
+A literal nobody on a journey to explore and make sense of everything.
 
 ## 🚀 Current Focus
 - Mastering fundamental first before jumping to ai ml and devops.
