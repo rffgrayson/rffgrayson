@@ -33,7 +33,7 @@ A literal nobody on a journey to explore and make sense of everything.
 ```
 
 ## 📚 Learning currently
-- 📗 [**Automate the Boring Stuff with Python**](https://automatetheboringstuff.com/)
+- 📗 Python Crash Course Book
 - 🌐 [**The Odin Project**](https://www.theodinproject.com/)
 
 ## 🌟 Portfolio & Progress
