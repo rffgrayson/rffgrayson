@@ -43,11 +43,6 @@ A literal nobody on a journey to explore and make sense of everything.
   </div>
 </div>
 
-<pre>
-
-
-</details>
-
 ## 🚀 Current Focus
 - Mastering fundamental first before jumping to ai ml and devops.
 
