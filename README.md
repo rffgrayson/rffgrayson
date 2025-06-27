@@ -44,7 +44,6 @@ A literal nobody on a journey to explore and make sense of everything.
 - Mastering fundamental first before jumping to ai ml and devops.
 
 ## 🧰 Tech Stack
-## 🧰 Tech Stack
 
 <div align="left">
   <!-- Languages -->
