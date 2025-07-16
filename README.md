@@ -47,7 +47,6 @@ A literal nobody on a journey to explore and make sense of everything.
 
 <div align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -67,20 +66,12 @@ A literal nobody on a journey to explore and make sense of everything.
 
 
 ## 📚 Learning currently
-- 📗 Python Crash Course Book
 - 🌐 [**The Odin Project**](https://www.theodinproject.com/)
 
 ## 🌟 Portfolio & Progress
 - 🧭 [**roadmap.sh**](https://roadmap.sh/u/rffkive) - My developer roadmap progress
 - 💻 [**Frontend Mentor**](https://www.frontendmentor.io/profile/rffkive) - Web development challenges
-- 📊 [**Kaggle**](https://www.kaggle.com/rffkive) - Data science projects
 
-## 📝 My Writing
-- _soon_
-[**View all my articles →**](https://medium.com/@rffkive)
-
-## 🏆 Certifications
-- ☁️ **AWS Cloud Practitioner**
 
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rffkive&theme=tokyonight)
