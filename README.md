@@ -41,4 +41,4 @@ A literal nobody on a journey to explore and make sense of everything.
 
 ## 📚 My Resources
 - 🌐 [**The Odin Project**](https://www.theodinproject.com/)
-- 💻 [**Frontend Mentor**](https://www.frontendmentor.io/profile/rffkive) - Web development challenges
+- 💻 [**Frontend Mentor**](https://www.frontendmentor.io/profile/rffgrayson)
