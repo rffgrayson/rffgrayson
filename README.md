@@ -40,15 +40,5 @@ A literal nobody on a journey to explore and make sense of everything.
 
 ## "The path shapes the traveler"
 
-<div style="width: 100%;">
-  <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
-    <tr>
-      <td style="width: 60%;"><strong>🌐 <a href="https://www.theodinproject.com/">The Odin Project</a></strong></td>
-      <td style="width: 40%; text-align: right;">JavaScript Path</td>
-    </tr>
-    <tr>
-      <td><strong>💻 <a href="https://www.frontendmentor.io/profile/rffgrayson">Frontend Mentor</a></strong></td>
-      <td style="text-align: right;">110 pts • 9 projects</td>
-    </tr>
-  </table>
-</div>
+- 🌐 **[The Odin Project](https://www.theodinproject.com/)** — JavaScript Path
+- 💻 **[Frontend Mentor](https://www.frontendmentor.io/profile/rffgrayson)** — 110 pts • 9 projects
