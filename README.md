@@ -38,7 +38,9 @@ A literal nobody on a journey to explore and make sense of everything.
   </div>
 </div>
 
-### "The path shapes the traveler" ~ Where I'm currently focusing on
+## "The path shapes the traveler"
 
-- 🌐 [The Odin Project](https://www.theodinproject.com/)
-- 💻 [Frontend Mentor](https://www.frontendmentor.io/profile/rffgrayson)
+| Platform | Progress |
+|----------|----------|
+| 🌐 [The Odin Project](https://www.theodinproject.com/) | JavaScript Path |
+| 💻 [Frontend Mentor](https://www.frontendmentor.io/profile/rffgrayson) | 110 pts • 9 projects |
