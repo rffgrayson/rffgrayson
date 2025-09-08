@@ -1,15 +1,19 @@
+<div style="max-width: 800px; margin: auto; padding: 1rem; font-family: Arial, sans-serif;">
 
-<div align="center">
-  <i>"The only way to learn to code is to write a lot of code" - Me, probably</i>
-</div>
+  <!-- Quote -->
+  <blockquote style="text-align: center; font-style: italic; font-size: 1rem; margin: 1.5em 0; color: #555;">
+    “The only way to learn to code is to write a lot of code”  
+    <br><small>— Me, probably</small>
+  </blockquote>
 
----
+  <!-- Tagline -->
+  <p style="text-align: center; color: #777; font-size: 0.9rem; margin-bottom: 2rem;">
+    A literal nobody on a journey to explore and make sense of everything.
+  </p>
 
-A literal nobody on a journey to explore and make sense of everything.
-
-<div align="center">
-  <div style="overflow-x: auto; white-space: nowrap; max-width: 100%; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
-    <pre style="margin: 0; font-size: clamp(0.3rem, 2vw, 0.8rem);">
+  <!-- ASCII Art -->
+  <div style="background: #111; color: #0f0; font-family: monospace; padding: 1rem; border-radius: 8px; overflow-x: auto; font-size: clamp(0.5rem, 2vw, 0.8rem); text-align: center; line-height: 1.1;">
+<pre style="margin: 0;">
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⠟⠛⠛⠛⠉⠉⠉⠉⠭⠭⠍⠛⠛⠛⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⡡⠔⠒⠘⠋⠁⠀⢀⣠⣤⡴⢶⣾⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⣄⡉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⠿⠟⠛⠉⠉⡀⠀⠂⠀⠀⠀⣠⣾⡿⠟⣉⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣈⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -35,10 +39,14 @@ A literal nobody on a journey to explore and make sense of everything.
 ⡇⢹⣷⣶⡿⠋⡀⢸⣿⣷⣦⡙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣩⣤⣄⢺⣿⣿⣿⠇⢠⠇⢸⣿⣿⣏⣴⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠘⣷⡀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⠈⠂⠻⠛⣠⠞⣡⢸⣿⣿⣿⣿⠗⢀⠉⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠀⠀⠛⠿⠿⠖⠛⠋⠁⠀⠈⠀⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⢸⠀⠀⠀⡈⠀⣿⡇⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⢀⣠⠖⣊⡄⠺⢿⢸⣿⠿⠋⢁⣾⠈⣷⡙⠆⠀⠀⠀⠈⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢸⠀⠀⢀⠇⠀⣿⠇⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-    </pre>
+   </pre>
   </div>
-</div>
 
-## 📚 My Resources
-- 🌐 [**The Odin Project**](https://www.theodinproject.com/)
-- 💻 [**Frontend Mentor**](https://www.frontendmentor.io/profile/rffgrayson)
+  <!-- Resources -->
+  <h2 style="text-align: center; margin-top: 2rem;">📚 My Resources</h2>
+  <ul style="list-style: none; padding: 0; text-align: center; line-height: 1.8; margin: 0;">
+    <li>🌐 <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></li>
+    <li>💻 <a href="https://www.frontendmentor.io/profile/rffgrayson" target="_blank">Frontend Mentor</a></li>
+  </ul>
+
+</div>
