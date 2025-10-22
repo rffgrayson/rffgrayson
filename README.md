@@ -1,5 +1,5 @@
 <div align="center">
-  <i>"The only way to learn to code is to write a lot of code" - Me</i>
+  <i>"You can't compete with someone who is having fun." — Tiago Forte</i>
 </div>
 
 ---
