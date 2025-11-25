@@ -1,8 +1,7 @@
-<div align="center">
-A literal nobody on a journey to explore and make sense of everything.
-</div>
-
----
+```
+> hi
+> A literal nobody on a journey to explore and make sense of everything.
+```
 
 <div align="center">
   <div style="overflow-x: auto; white-space: nowrap; max-width: 100%; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
@@ -36,4 +35,3 @@ A literal nobody on a journey to explore and make sense of everything.
   </div>
 </div>
 
----
