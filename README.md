@@ -1,9 +1,6 @@
 ```
 > A literal nobody on a journey to explore and make sense of everything.
 
-<div align="center">
-  <div style="overflow-x: auto; white-space: nowrap; max-width: 100%; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
-    <pre style="margin: 0; font-size: clamp(0.3rem, 2vw, 0.8rem);">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠎⡊⣵⣶⣿⣫⣙⣷⣤⣀⣤⡐⠆⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢼⢿⣻⣿⣿⣿⣿⣿⣷⡶⠤⠤⡶⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠺⣿⣿⣿⣿⣿⣿⣿⡉⠙⣒⠐⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -29,8 +26,5 @@
 ⠀⣼⣿⣬⠀⠀⠸⢆⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢠⠙⠂⠁⠀
 ⠀⢿⣿⣷⡆⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠘⠀⠀
 ⠀⢸⣿⣿⣇⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠧⠁⠀⠀⠀⠀
-    </pre>
-  </div>
-</div>
 
 ```
