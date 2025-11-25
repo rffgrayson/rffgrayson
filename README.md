@@ -1,5 +1,5 @@
 <div align="center">
-  <i>"You can't compete with someone who is having fun." — Tiago Forte</i>
+A literal nobody on a journey to explore and make sense of everything.
 </div>
 
 ---
@@ -37,6 +37,3 @@
 </div>
 
 ---
-<div align="center">
-A literal nobody on a journey to explore and make sense of everything.
-</div>
