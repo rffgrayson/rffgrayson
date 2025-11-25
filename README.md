@@ -1,4 +1,5 @@
-```
+<center>
+  ```
 > A literal nobody on a journey to explore and make sense of everything.
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠎⡊⣵⣶⣿⣫⣙⣷⣤⣀⣤⡐⠆⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -28,3 +29,5 @@
 ⠀⢸⣿⣿⣇⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠧⠁⠀⠀⠀⠀
 
 ```
+
+</center>
