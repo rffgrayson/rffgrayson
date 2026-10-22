@@ -8,7 +8,8 @@
       <img src="https://readme-pi-three.vercel.app/api/top-langs/?username=rffgrayson&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css" alt="Top Languages" width="100%" />
     </td>
     <td align="center" width="33%">
-      <img src="https://wakatime.com/share/@rffgrayson/9c293943-bb6a-4759-9d01-042840302ed0.svg" alt="WakaTime Chart" width="100%" />
+      <b>Time spent coding</b><br><br>
+      <img src="https://wakatime.com/share/@rffgrayson/b64f7378-639c-4650-91a2-8c680c1ac0d7.svg" alt="WakaTime Chart" width="100%" />
     </td>
     <td align="center" width="33%">
       <b>Languages I code in</b><br><br>
