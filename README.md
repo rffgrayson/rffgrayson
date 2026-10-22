@@ -9,7 +9,7 @@
     </td>
     <td align="center" width="33%">
       <b>Time spent coding</b><br><br>
-      <img src="https://wakatime.com/share/@rffgrayson/b64f7378-639c-4650-91a2-8c680c1ac0d7.svg" alt="WakaTime Chart" width="100%" />
+      <img src="https://wakatime.com/share/@rffgrayson/e20dd66d-88d6-40ec-9f1a-16ca05991173.svg" alt="WakaTime Chart" width="100%" />
     </td>
     <td align="center" width="33%">
       <b>Languages I code in</b><br><br>
