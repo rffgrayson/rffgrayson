@@ -11,9 +11,4 @@
       <img src="https://wakatime.com/share/@rffgrayson/10ca0629-ce24-4fbe-8277-7b3efb6a244c.svg" alt="WakaTime Coding Activity" width="100%" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=@rffgrayson&theme=dark&layout=compact&hide_border=true&hide=Other" alt="Languages this week" />
-    </td>
-  </tr>
 </table>
