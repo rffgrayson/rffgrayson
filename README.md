@@ -11,9 +11,9 @@
       <img src="https://wakatime.com/share/@rffgrayson/10ca0629-ce24-4fbe-8277-7b3efb6a244c.svg" alt="WakaTime Coding Activity" width="100%" />
     </td>
     <td align="center" width="33%">
-      <b>Languages I code in</b><br><br>
-      <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP" /><br>
-      <img src="https://img.shields.io/badge/CAP_CDS-0A6ED1?style=for-the-badge&logo=sap&logoColor=white" alt="CAP CDS" /><br>
+      <b>Languages I code most</b><br><br>
+      <img src="https://img.shields.io/badge/ABAP-E5262B?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP" /><br>
+      <img src="https://img.shields.io/badge/CAP_CDS-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="CAP CDS" /><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br>
